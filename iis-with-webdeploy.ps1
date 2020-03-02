@@ -1,4 +1,4 @@
-# Install IIS (with Management Console app)
+# Install IIS (with Management Console feature)
 Install-WindowsFeature -name Web-Server -IncludeManagementTools
 
 # Install ASP.NET 4.6
